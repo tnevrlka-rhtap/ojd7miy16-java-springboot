@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ojd7miy16-java-springboot-gitops-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/ojd7miy16-java-springboot-gitops
